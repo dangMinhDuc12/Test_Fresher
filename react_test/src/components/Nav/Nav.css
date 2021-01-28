@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    list-style: none;
+    background-color: pink;
+    height: 30px;
+}
+.nav__home-link {
+    margin: 0 20px;
+    text-decoration: none;
+}
+
+.nav__posts-link {
+    text-decoration: none;
+}
